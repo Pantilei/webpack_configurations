@@ -1,0 +1,7 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "no-console": "warn"
+  },
+  "extends": ["airbnb-base"] //This is used to make your js files more readable by removing some typos, which dont cause anny error in running js
+}
